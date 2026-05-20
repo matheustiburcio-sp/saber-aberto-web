@@ -1,0 +1,3 @@
+cd "C:\Users\mathe\Downloads\saber-aberto\saber-aberto"
+npm run dev
+cd "C:\Users\mathe\Downloads\saber-aberto\saber-aberto"

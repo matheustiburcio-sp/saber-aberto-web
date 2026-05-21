@@ -4,7 +4,7 @@ Plataforma web do projeto **Saber Aberto**, desenvolvida como parte do trabalho 
 
 ## 🌐 Acesso ao site
 
-**https://saber-aberto-web.matheus-tiburcio.workers.dev**
+**https://saber-aberto-web.matheus-tiburzio.workers.dev**
 
 ## 🛠️ Tecnologias utilizadas
 

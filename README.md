@@ -10,7 +10,7 @@ Plataforma web do projeto **Saber Aberto**, desenvolvida como parte do trabalho 
 
 - **React** com [TanStack Start](https://tanstack.com/start) (SSR)
 - **TypeScript**
-- **Vite** + [@cloudflare/vite-plugin](https://github.com/cloudflare/workers-sdk)
+- **Vite** + [@cloudflare/vite-plugin](https://saber-aberto-web.matheus-tiburzio.workers.dev/)
 - **Supabase** — autenticação e banco de dados (PostgreSQL)
 - **Cloudflare Workers** — hospedagem e deploy
 - **shadcn/ui** + **Tailwind CSS** — interface
